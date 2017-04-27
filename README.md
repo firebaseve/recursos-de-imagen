@@ -14,6 +14,6 @@ Hemos creado esta sección para nombrar y agradecer a todos los que de un u otra
 
 Y los que han tomado las riendas y han hecho aportes significativos para FirebaseVe.
 
-- *José Gregorio Rodríguez*, por la elaboración de nuestro logo oficial V1.
+- [*José Gregorio Rodríguez*](https://www.github.com/Vindictg), por la elaboración de nuestro logo oficial V1.
 
 ##### Sé el próximo en esta lista 😎...
